@@ -1,10 +1,14 @@
-# 💬 Chatbot com OpenRouter
+<img>https://img.magnific.com/vetores-gratis/graident-ai-robot-vectorart-em-ingles_78370-4114.jpg?semt=ais_hybrid&w=740&q=80</img>
+
+
+
+# Chatbot com OpenRouter
 
 Um chatbot web simples construído com **Python + Flask** no backend e **HTML/CSS/JS puro** no frontend, integrado à API do [OpenRouter](https://openrouter.ai) — que dá acesso a centenas de modelos de linguagem (GPT-4o, Claude, Llama, etc.) com uma única chave.
 
 ---
 
-## 🚀 Como rodar localmente
+## Como rodar localmente
 
 ### 1. Clone o repositório
 
